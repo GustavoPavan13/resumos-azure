@@ -25,3 +25,18 @@ OPEX:
 despesas operacionais
 relacionado ao tempo que o produto esta sendo usado
 
+
+
+*Beneficios*
+
+- alta disponibilidade: sistema sempre vai estar funcionando, independente da onde estiver acessando. caso o serviço fique fora por mais tempo que determinado em contrato, recebera um credito
+  
+- escalabilidade: capacidade de ajustar os recursos para atender a demanda, nao esta pagando alem daquilo que realmente esta sendo usado
+
+- elasticidade: podemos adaptar nosso ambiente com base nas requisições, aumentando o numero de maquinas vertuais ou conteiners
+
+- confiabilidade: com o design descentralizado, é uma infraestrutura confiavel e resilientes, pois podemos criar recursos em qualuer parte do mundo.
+
+- previsibilidade: falamos de confiança, desempenho e custo.
+
+- segurança: por mais que o provedor tenha algumas ferramentas, a implementação delas depende totalmente do cliente 
