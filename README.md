@@ -27,7 +27,7 @@ relacionado ao tempo que o produto esta sendo usado
 
 
 
-*Beneficios*
+**Beneficios**
 
 - alta disponibilidade: sistema sempre vai estar funcionando, independente da onde estiver acessando. caso o serviço fique fora por mais tempo que determinado em contrato, recebera um credito
   
@@ -39,4 +39,33 @@ relacionado ao tempo que o produto esta sendo usado
 
 - previsibilidade: falamos de confiança, desempenho e custo.
 
-- segurança: por mais que o provedor tenha algumas ferramentas, a implementação delas depende totalmente do cliente 
+- segurança: por mais que o provedor tenha algumas ferramentas, a implementação delas depende totalmente do cliente
+
+**Tipo de serviço de Nuvem**
+IaaS(Infraestrutura como serviço)
+- mais utilziado quando falamos de nuvem
+- sao recursos/serviços onde temos mais acesso
+- temos que configurar desde maquina/firewaals
+
+  Paas(plataforma como serviço)
+  - nao nos importa a maquina ou configurar ela mas sim,  criar de ambientes, implantação de aplicativos e etc
+ 
+    Saas( software como serviço)
+    - aplicação ja esta pronto, o que determina é a liçenca que compramos
+   
+  **Responsabilidade Compartilhada**
+ Modelo IaaS -
+- parte fisica => responsabilidade do provedor,
+- o resto é do cliente
+
+  Modelo PaaS
+  - parte fisica e sistema operacional => responsabilidade do provedor,
+  - contole de rede, app e infraestrutura de identidade e diretorio => compartilhada
+  - contas, dipositivo e informações => cliente
+ 
+    Modelo SaaS
+     - contas, dipositivo e informações => cliente
+    - o restante do provedor
+
+  
+    
